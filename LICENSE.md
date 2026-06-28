@@ -1,4 +1,4 @@
-# 
+# Personalizado GIMP filtros para Mac OS | Ultimato GIMP filtros para PC Windows. Com grade de pixel art e objetos inteligentes — otimizado para máximo desempenho em cada plataforma.
 
 
 
